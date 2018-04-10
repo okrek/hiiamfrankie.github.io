@@ -5,7 +5,8 @@
       {
         "appID": "KFA6VPVX93.com.magdv.yarche",
         "paths": [
-          "*"
+          "/customer/account/resetpassword/",
+          "/customer/account/confirm/"
         ]
       }
     ]
